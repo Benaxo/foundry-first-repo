@@ -1,3 +1,10 @@
+
+# Titre : Un smart-contract pour financer et gérer des fonds
+
+## Description :
+
+This project is a smart contract developed with Foundry that allows to finance and manage funds in a secure and transparent way. This project is my first smart contract developed with Foundry and aims to demonstrate the possibilities of blockchain technology for fund management.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
